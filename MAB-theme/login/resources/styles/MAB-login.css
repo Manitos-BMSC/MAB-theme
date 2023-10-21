@@ -64,4 +64,16 @@ div.kc-logo-text{
     position: relative;
 }
 
+div.login-pf-page-header {
+    background-image: url('../img/ProgramaManitos.png'); /* Reemplaza 'ruta/a/tu/logo.png' con la ruta de tu imagen de logo */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 0;
+    margin-top: 2rem;
+    position: relative;
+}
+
   
